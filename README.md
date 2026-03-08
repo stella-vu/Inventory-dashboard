@@ -7,7 +7,7 @@ This project demonstrates how Excel can be used as a **lightweight business inte
 ---
 ## 📷 Dashboard Preview
 
-![Inventory Dashboard](Inventory-dashboard/Inventory%20dashboard.gif)
+![Inventory Dashboard](Inventory-dashboard/Inventory_dashboard.gif)
 
 ---
 ## 🚀 Project Overview
