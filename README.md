@@ -77,5 +77,9 @@ inventory-dashboard/
 │
 ├── Inventory_dashboard.gif
 │
+├── Problems to Solve.pdf
+│
+├── inventory_raw_dataset.csv
+│
 └── README.md
 ```
