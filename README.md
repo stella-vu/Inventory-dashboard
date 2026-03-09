@@ -54,3 +54,11 @@ The dashboard is built entirely in **Microsoft Excel** using Pivot Tables and sl
 
 
 ## 📂 Project Structure
+
+```
+inventory-dashboard/
+│
+├── Inventory_dashboard.gif
+│
+└── README.md
+```
