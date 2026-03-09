@@ -51,7 +51,24 @@ The dashboard is built entirely in **Microsoft Excel** using Pivot Tables and sl
 
 ---
 
+## 💡 Use Cases
 
+This dashboard can help:
+
+- Small businesses track inventory performance
+- Identify products that need restocking
+- Analyze supplier contribution to stock
+- Monitor overall stock value
+
+---
+
+## 📌 Future Improvements
+
+- Add automated data refresh
+- Add inventory turnover metrics
+- Add monthly inventory trend tracking
+
+---
 
 ## 📂 Project Structure
 
